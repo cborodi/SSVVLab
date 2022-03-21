@@ -5,6 +5,6 @@ import org.junit.Test;
 public class LabBBT {
     @Test
     public void TestCase1() {
-        assertTrue(1 == 2);
+        assert(1 == 2);
     }
 }
